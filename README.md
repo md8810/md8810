@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @md8810
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-md8810/md8810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 مرحبا، أنا @md8810. 👀 أنا مهتم بـ … 🌱 أنا أتعلم حاليا … 💞️ تتطلع إلى التعاون على … 📫 كيفية الوصول لي … <! --
+ md8810/md8810 1985 1985 1985 1985 1985 1985 1985 1985 1985 1985 1985 1985 ✨ ✨ 1985 1985 1985
